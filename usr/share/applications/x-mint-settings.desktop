@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.0.1
+Type=Application
+Name=X-Mint-Settings 
+Exec=x-mint-settings
+Icon=x-mint-settings
+Categories=Settings;
+Keywords=settings;Einstellungen;x-mint;
+StartupNotify=true
+X-GNOME-UsesNotifications=true
+GenericName=X-Mint Einstellungen
